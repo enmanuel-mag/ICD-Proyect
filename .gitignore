@@ -1,6 +1,6 @@
 Proyect/notebook/.ipynb_checkpoints
-.geojson
-.json
-.csv
+*.geojson
+*.json
+*.csv
 .DS_Store
 lib.xml
