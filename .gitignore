@@ -4,3 +4,5 @@ Proyect/notebook/.ipynb_checkpoints
 *.csv
 .DS_Store
 lib.xml
+.ipynb_checkpoints
+.invalid
